@@ -1,0 +1,12 @@
+{
+  "name": "samples",
+  "license": "MIT",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node pow.js"
+  },
+  "dependencies": {
+    "prettier": "^1.19.1"
+  },
+  "devDependencies": {}
+}
