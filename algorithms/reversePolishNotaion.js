@@ -35,4 +35,4 @@ function calculate(expression) {
   return stack.length > 0 ? illegalInputMessage : result;
 }
 
-console.log(calculate("2 3 +"));
+console.log(calculate("5 1 2 + 4 * + 3 -"));
